@@ -10,29 +10,29 @@
 ![alt text](image-1.png)
 
 ## Mostrando imagen original
-![alt text](image-17.png)
+![alt text](image-30.png)
 
 # nueva terminal
-![alt text](image-4.png)
+![alt text](image-31.png)
 
 # 4. ACCESO Y MODIFICACION DE PIXELES INDIVIDUALES
-![alt text](image-18.png)
-![alt text](image-19.png)
+![alt text](image-32.png)
+![alt text](image-33.png)
 # 5. REGIÓN DE INTERÉS (ROI - REGION OF INTEREST)
-![alt text](image-20.png)
+![alt text](image-43.png)
 # 6. SEPARACIÓN Y FUSIÓN DE CANALES DE COLOR (BGR)
-![alt text](image-21.png)
-![alt text](image-22.png)
+![alt text](image-34.png)
+![alt text](image-35.png)
 # 7. REDIMENSIONAMIENTO DE IMÁGENES (RESIZING)
-![alt text](image-23.png)
-![alt text](image-24.png)
-![alt text](image-25.png)
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
 # 8. ROTACIÓN DE IMÁGENES
-![alt text](image-26.png)
+![alt text](image-39.png)
 
 # 9. VOLTEO / ESPEJO DE IMÁGENES (FLIPPING)
-![alt text](image-27.png)
-![alt text](image-28.png)
+![alt text](image-40.png)
+![alt text](image-41.png)
 ![alt text](image-29.png)
 # 10. GUARDADO DE RESULTADOS Y LIMPIEZA
-![alt text](image-16.png)
+![alt text](image-42.png)
